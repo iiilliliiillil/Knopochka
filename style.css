@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #EEF0FC;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    letter-spacing: 0.7px;
+    color: rgb(100, 100, 100);
+    margin-top: 19px;
+    margin-bottom: 18px;
+    margin-left: 19px;
+}
+
+.btn {
+    background-color: #5F51E1;
+    width: 200px;
+    height: 200px;
+    border: 0ch;
+    margin-left: 19px;
+    transition: 900ms ease-in-out;
+}
